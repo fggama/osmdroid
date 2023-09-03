@@ -1,5 +1,5 @@
 # Implementación OSMDROID
-
+para aplicaciones Kotlin en Android
 
 ## AndroidManifest.xml
 ```
